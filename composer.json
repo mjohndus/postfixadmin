@@ -1,5 +1,5 @@
 {
-    "name": "postfixadmin/postfixadmin",
+    "name": "mjohndus/postfixadmin",
     "description": "web based administration interface for Postfix mail servers",
     "type": "project",
     "license": "GPL-2.0-only",
